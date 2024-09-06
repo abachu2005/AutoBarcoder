@@ -1,0 +1,4 @@
+tkinter
+python-levenshtein
+networkx
+matplotlib
